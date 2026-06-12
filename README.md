@@ -212,19 +212,12 @@ A compact but complete project that demonstrates algorithmic thinking (win-condi
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunSpeaks-832&theme=midnight-purple&hide_border=true&background=0D1117&ring=9B59B6&fire=7D3C98&currStreakLabel=9B59B6" />
+<img src="https://streak-stats.demolab.com/?user=TarunSpeaks-832&theme=midnight-purple&hide_border=true&background=0D1117&ring=9B59B6&fire=7D3C98&currStreakLabel=9B59B6" />
 
 </div>
 
 ---
 
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TarunSpeaks-832&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -238,13 +231,6 @@ A compact but complete project that demonstrates algorithmic thinking (win-condi
 
 ---
 
-## ◈ Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/TarunSpeaks-832/TarunSpeaks-832/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
